@@ -1,0 +1,6 @@
+id,name,description,WKT
+1,Tokha_BN_Clip_Boundary,"DEM clip boundary for Tokha to Budhanilkantha Road Corridor - 300m buffer | CRS: EPSG:4326","POLYGON ((85.2950 27.7350, 85.3750 27.7350, 85.3750 27.7900, 85.2950 27.7900, 85.2950 27.7350))"
+2,Corridor_Centreline,"Approximate road centreline - Tokha Junction to Budhanilkantha Approach (~1.5km)","LINESTRING (85.3265 27.7452, 85.3379 27.7499, 85.3623 27.7780)"
+3,Corridor_Start,"Ch. 0+000 - Tokha Junction","POINT (85.3265 27.7452)"
+4,Corridor_Mid,"Ch. 0+700 - Dhapasi Height Curve","POINT (85.3379 27.7499)"
+5,Corridor_End,"Ch. 1+500 - Budhanilkantha Approach","POINT (85.3623 27.7780)"
